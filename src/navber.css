@@ -1,0 +1,40 @@
+.bt1{
+    background: #1977cc;
+    color: #fff;
+    border-radius: 50px;
+    padding: 8px 25px;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+    display: inline-block;
+    border: none;
+}
+
+
+
+.nav_ul{
+    position: relative;
+    left: 100px;
+}
+.nav{
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
+
+  .li {
+    background: 
+       radial-gradient(transparent 50%, #1977cc) 
+       center/200% 200% no-repeat;
+    transition: 0.1s ;
+    font-size: 14px;
+    
+  }
+  .li:hover {
+    background-size: 100% 100%;
+  }
+  
+  
+  
+  
+  
