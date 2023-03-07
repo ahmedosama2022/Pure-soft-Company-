@@ -63,12 +63,10 @@ const Footer = () => {
                 </Col>
                 <Col xl={6} lg={6} md={12} sm={12}>
                   <div className='fo'>
-                  <p>
-                  
-                
-                     حقوق النشر <span style={{color:"black",fontWeight:"500"}}> بيور سوفت</span> كل الحقوق محفوظة مصمم بواسطه 
+                  <p style={{color:"white"}}>
+                     حقوق النشر <span style={{color:"white",fontWeight:"500"}}> بيور سوفت</span> كل الحقوق محفوظة مصمم بواسطه 
                      <br/>
-                     <span style={{color:"blue"}} >Pure Soft</span>
+                     <span style={{color:"white"}} >Pure Soft</span>
                     </p>
                   </div>
                 </Col>

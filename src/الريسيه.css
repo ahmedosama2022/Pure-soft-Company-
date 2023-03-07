@@ -1,5 +1,6 @@
 body{
     font-family: "Raleway", sans-serif;
+    overflow: hidden;
 }
 .main{
     width: 100%;
@@ -163,15 +164,22 @@ box-shadow:  20px 20px 55px #bebebe,
         width: 100%;
     }
     .mainsec2 p{
-        position: relative;
-        bottom: 60px;
+       text-align: center;
+       align-items: center;
+       height: 100px;
+       position: relative;
+       bottom: 50px;
     }
     .mainsec2 h3{
         position: relative;
-        bottom: 50px;
+        bottom: 100px;
     }
     .main3sec3{
         margin-top: 20px;
+    }
+    .main2sec2 img{
+       position: relative;
+      top: 200px;
     }
     
 }

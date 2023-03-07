@@ -86,7 +86,7 @@ const تواصل = () => {
                             <FiMapPin className="icon2"/>
                             </div>
               </div>
-              <div className='site1' style={{display:"flex" , justifyContent:"center",width:"200px" ,position:"relative", right:"10px", top:"40px"}}>
+              <div className='site4' style={{display:"flex" , justifyContent:"center",width:"200px" ,position:"relative", right:"10px", top:"5px"}}>
                             <div>
                             <h4>:البريد</h4>
                                 <p>puresoft.co@gmail.com</p>
@@ -95,7 +95,7 @@ const تواصل = () => {
                             <CgMail className="icon2"/>
                             </div>
               </div>
-              <div className='site1' style={{display:"flex" , justifyContent:"center",width:"200px", position:"relative", left:"30px", top:"80px"}}>
+              <div className='site5' style={{display:"flex" , justifyContent:"center",width:"200px", position:"relative", left:"30px", top:"20px"}}>
                             <div>
                             <h4>:الهاتف</h4>
                                 

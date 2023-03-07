@@ -26,14 +26,14 @@
 }
 .form{
     background: rgba(255, 255, 255, 0.21);
-
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(10.7px);
     border: 1px solid rgba(255, 255, 255, 0.49);
     padding: 40px;
     border-radius: 15px;
-    padding: 25px;
+   
     border-radius: 30px;
+    height: 100%;
 }
 .icon2{
     position: relative;
@@ -51,4 +51,16 @@
 }
 .site h4{
     color: rgb(10, 26, 56);
+}
+
+
+
+
+
+
+@media only screen and 
+(max-width: 500px) {
+    .site.site5{
+        display: none;
+    }
 }
